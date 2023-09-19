@@ -46,8 +46,8 @@ const Hero = () => {
         <img
           src={bigShoeImg}
           alt="shoe colletion"
-          width={610}
-          height={502}
+          width={508}
+          height={500}
           className="object-contain relative z-10"
         />
 
