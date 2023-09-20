@@ -24,12 +24,12 @@ const SuperQuality = () => (
         Our dedication to detail and excellence ensures your satisfaction.
       </p>
 
-      <div>
+      <div className="mb-12">
         <Button text="View details" iconUrl="none" />
       </div>
     </div>
 
-    <div className="flex flex-1 justify-between items-center">
+    <div className="flex flex-1 justify-center items-center">
       <img
         src={shoe8}
         alt="Quality Shoes"

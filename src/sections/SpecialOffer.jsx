@@ -3,7 +3,7 @@ import { arrowRight } from "../assets/icons";
 import Button from "../components/Button";
 
 const SpecialOffer = () => (
-  <section className="flex justify-wrap items-center max-sm:flex-col-reverse gap-10 max-container justify-evenly">
+  <section className="flex justify-wrap items-center max-lg:flex-col-reverse gap-10 max-container justify-evenly">
     <div>
       <img
         src={offer}
