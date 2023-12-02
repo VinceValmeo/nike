@@ -8,7 +8,7 @@ const Subscribe = () => {
     >
       <div>
         <h1 className="font-palanquin text-4xl leading-[68px] max-w-md font-bold">
-          <span>Sing Up for </span>
+          <span>Sign Up for </span>
           <span className="text-orange-500 inline-block mt-3">Updates </span>
           <span> & Newsletter</span>
         </h1>
